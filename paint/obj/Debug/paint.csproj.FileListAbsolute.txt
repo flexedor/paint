@@ -1,0 +1,19 @@
+C:\Users\fedor\source\repos\paint\paint\bin\Debug\paint.exe.config
+C:\Users\fedor\source\repos\paint\paint\bin\Debug\paint.exe
+C:\Users\fedor\source\repos\paint\paint\bin\Debug\paint.pdb
+C:\Users\fedor\source\repos\paint\paint\obj\Debug\paint.csprojAssemblyReference.cache
+C:\Users\fedor\source\repos\paint\paint\obj\Debug\paint.Form1.resources
+C:\Users\fedor\source\repos\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\fedor\source\repos\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\fedor\source\repos\paint\paint\obj\Debug\paint.exe
+C:\Users\fedor\source\repos\paint\paint\obj\Debug\paint.pdb
+C:\Users\Fiodar\OneDrive\Рабочий стол\progects\C#\paint\paint\bin\Debug\paint.exe.config
+C:\Users\Fiodar\OneDrive\Рабочий стол\progects\C#\paint\paint\bin\Debug\paint.exe
+C:\Users\Fiodar\OneDrive\Рабочий стол\progects\C#\paint\paint\bin\Debug\paint.pdb
+C:\Users\Fiodar\OneDrive\Рабочий стол\progects\C#\paint\paint\obj\Debug\paint.csprojAssemblyReference.cache
+C:\Users\Fiodar\OneDrive\Рабочий стол\progects\C#\paint\paint\obj\Debug\paint.Form1.resources
+C:\Users\Fiodar\OneDrive\Рабочий стол\progects\C#\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\Fiodar\OneDrive\Рабочий стол\progects\C#\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\Fiodar\OneDrive\Рабочий стол\progects\C#\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\Fiodar\OneDrive\Рабочий стол\progects\C#\paint\paint\obj\Debug\paint.exe
+C:\Users\Fiodar\OneDrive\Рабочий стол\progects\C#\paint\paint\obj\Debug\paint.pdb
